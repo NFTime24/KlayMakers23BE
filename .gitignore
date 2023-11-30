@@ -1,0 +1,13 @@
+docs/
+nohup.out
+nftime
+*.log
+.env
+./config/
+./cloud/
+./docs/
+./oauth/
+./redis/
+./static/
+./templates/
+
